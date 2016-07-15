@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ThePoliticsOfInformalGovernance.github.io/sitemap.xml
