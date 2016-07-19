@@ -38,6 +38,7 @@ format: frontpage
 * First check, if there is a call for action-button
 *
 {% endcomment %}
+{% comment %}
 {% if page.callforaction.url contains 'http' %}
 {% assign url = '' %}
 {% else %}
@@ -50,7 +51,7 @@ format: frontpage
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
-
+{% endcomment %}
 
 
 {% comment %}
@@ -58,6 +59,9 @@ format: frontpage
 * First check, if there are any posts at all
 *
 {% endcomment %}
+
+
+
 
 {% unless site.posts == empty %}
     <div class="row t30 b20 homepage">
@@ -96,7 +100,7 @@ format: frontpage
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+            {% include list-posts entries='5' offset='3' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}

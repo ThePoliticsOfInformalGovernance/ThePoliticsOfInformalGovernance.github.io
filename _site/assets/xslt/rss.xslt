@@ -9,8 +9,8 @@
 		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="https://ThePoliticsOfInformalGovernance.github.io/assets/css/styles_feeling_responsive.css">
-	<script src="https://ThePoliticsOfInformalGovernance.github.io/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,7 +38,7 @@
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="Official Project Website">
-	<meta property="og:url" content="https://ThePoliticsOfInformalGovernance.github.io/assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="The Politics of Informal Governance">
@@ -56,34 +56,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="https://ThePoliticsOfInformalGovernance.github.io/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://ThePoliticsOfInformalGovernance.github.io/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://ThePoliticsOfInformalGovernance.github.io/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://ThePoliticsOfInformalGovernance.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://ThePoliticsOfInformalGovernance.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://ThePoliticsOfInformalGovernance.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://ThePoliticsOfInformalGovernance.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://ThePoliticsOfInformalGovernance.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://ThePoliticsOfInformalGovernance.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://ThePoliticsOfInformalGovernance.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://ThePoliticsOfInformalGovernance.github.io/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://ThePoliticsOfInformalGovernance.github.io/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -98,7 +98,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://ThePoliticsOfInformalGovernance.github.io" class="icon-tree"> The Politics of Informal Governance</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> The Politics of Informal Governance</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -148,10 +148,22 @@
 
           
           
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
             
             
               <li class="divider"></li>
-              <li><a href="https://ThePoliticsOfInformalGovernance.github.io/search/">Search</a></li>
+              <li><a href="http://localhost:4000/search/">Search</a></li>
 
             
             
@@ -165,7 +177,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="https://ThePoliticsOfInformalGovernance.github.io/contact/">Contact</a></li>
+              <li><a href="http://localhost:4000/contact/">Contact</a></li>
 
             
             
@@ -184,7 +196,7 @@
 
             
             
-              <li><a href="https://ThePoliticsOfInformalGovernance.github.io/">Start</a></li>
+              <li><a href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -199,7 +211,7 @@
 
             
             
-              <li><a href="https://ThePoliticsOfInformalGovernance.github.io/getting-started/">Getting Started</a></li>
+              <li><a href="http://localhost:4000/project/">Project</a></li>
               <li class="divider"></li>
 
             
@@ -216,59 +228,29 @@
             
 
               <li class="has-dropdown">
-                <a href="https://ThePoliticsOfInformalGovernance.github.io/design/">Templates</a>
+                <a href="http://localhost:4000/news/">News</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/grid/">Grid &amp; Colors</a></li>
+                      <li><a href="http://localhost:4000/news/data_news/">Data News</a></li>
                     
 
                       
 
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/typography/typography/">Typography</a></li>
+                      <li><a href="http://localhost:4000/news/event_news/">Event News</a></li>
                     
 
                       
 
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/page/">Page/Post</a></li>
+                      <li><a href="http://localhost:4000/news/papers_news/">Paper News</a></li>
                     
 
                       
 
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/post-left-sidebar/">Post-Left-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/post-right-sidebar/">Post-Right-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/page-fullwidth/">Page Full-Width</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/blog/">Blog-Page</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/video/">Video</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/gallery/">Gallery</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/portfolio/">Portfolio</a></li>
+                      <li><a href="http://localhost:4000/news/archive/">Archive</a></li>
                     
                   </ul>
 
@@ -285,51 +267,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a href="https://ThePoliticsOfInformalGovernance.github.io/headers/">Header Styles</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/header-full-width-image/">Header with Full-Width-Image</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/header-image-pattern/">Header with Image and Pattern</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/header-image-color/">Header with image and color</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/header-logo-only/">Header Only With Logo</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/header-with-text/">Header With Text</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/no-header/">No Header</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/design/no-header-but-image/">No Header but Image</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a href="http://localhost:4000/data/">Data</a></li>
               <li class="divider"></li>
+
+            
             
           
         
@@ -341,26 +282,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a href="https://ThePoliticsOfInformalGovernance.github.io/documentation/">Documentation</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/changelog/">Changelog</a></li>
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/roadmap/">Roadmap</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a href="http://localhost:4000/news/papers_news/">Publications</a></li>
               <li class="divider"></li>
+
+            
             
           
         
@@ -372,21 +297,40 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a href="https://ThePoliticsOfInformalGovernance.github.io/blog/">Blog</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="https://ThePoliticsOfInformalGovernance.github.io/blog/archive/">Blog Archive</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a href="http://localhost:4000/people/">People</a></li>
               <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/events/">Events</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/links/">Links</a></li>
+              <li class="divider"></li>
+
+            
             
           
         
@@ -413,8 +357,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://ThePoliticsOfInformalGovernance.github.io" title="The Politics of Informal Governance – Project Website">
-				<img src="https://ThePoliticsOfInformalGovernance.github.io/assets/img/logo.png" alt="The Politics of Informal Governance – Project Website">
+			<a id="logo" href="http://localhost:4000" title="The Politics of Informal Governance – Project Website">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="The Politics of Informal Governance – Project Website">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -492,7 +436,7 @@
 
             <p class="shadow-black">
               Official Project Website
-              <a href="https://ThePoliticsOfInformalGovernance.github.io/info/">More ›</a>
+              <a href="http://localhost:4000/project/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -516,27 +460,27 @@
               
                 
                   <li >
-                    <a href="https://ThePoliticsOfInformalGovernance.github.io"  title=""></a>
+                    <a href="http://localhost:4000"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://ThePoliticsOfInformalGovernance.github.io/contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://ThePoliticsOfInformalGovernance.github.io/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://ThePoliticsOfInformalGovernance.github.io/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://ThePoliticsOfInformalGovernance.github.io/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -546,9 +490,7 @@
           <div class="small-6 medium-3 large-3 columns">
             
               
-                <h5 class="shadow-black">Dankeschön</h5>
-              
-            
+                <h5 class="shadow-black">Credits</h5>
               
             
               
@@ -562,7 +504,7 @@
             
               
                 <li >
-                  <a href="https://ThePoliticsOfInformalGovernance.github.io"  title=""></a>
+                  <a href="http://localhost:4000"  title=""></a>
                 </li>
             
               
@@ -573,11 +515,6 @@
               
                 <li class="services-newsletter" >
                   <a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>
-                </li>
-            
-              
-                <li class="rss-link" >
-                  <a href="http://unsplash.com/" target="_blank"  title="Images by Unsplash">Images by Unsplash</a>
                 </li>
             
               
@@ -601,15 +538,9 @@
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             
-              <li><a href="http://github.com/phlow" target="_blank" class="icon-github" title="Code und mehr..."></a></li>
+              <li><a href="http://github.com/ThePoliticsOfInformalGovernance" target="_blank" class="icon-github" title="Website, Data and Scripts"></a></li>
             
-              <li><a href="http://www.youtube.com/PhlowMedia" target="_blank" class="icon-youtube" title="Videos, Video-Anleitungen und Filme von Phlow auf YouTube"></a></li>
-            
-              <li><a href="http://twitter.com/phlow" target="_blank" class="icon-twitter" title="Immer das Neuste von Phlow gibt es auf Twitter"></a></li>
-            
-              <li><a href="http://www.mixcloud.com/phlow/" target="_blank" class="icon-cloud" title="Mixe, was sonst?"></a></li>
-            
-              <li><a href="https://plus.google.com/u/0/+Phlow" target="_blank" class="icon-googleplus" title="YouTube Google+"></a></li>
+              <li><a href="" target="_blank" class="icon-twitter" title="Follow us on Twitter"></a></li>
             
             </ul>
           </section>
@@ -620,25 +551,13 @@
 		
 
 
-<script src="https://ThePoliticsOfInformalGovernance.github.io/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 
 
 
 
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-60112281-1', 'auto');
-  ga('set', 'anonymizeIp', true);
-  ga('send', 'pageview');
-
-</script>
 
 
 
