@@ -282,7 +282,7 @@
 
             
             
-              <li><a href="http://localhost:4000/news/papers_news/">Publications</a></li>
+              <li><a href="http://localhost:4000/papers/">Publications</a></li>
               <li class="divider"></li>
 
             

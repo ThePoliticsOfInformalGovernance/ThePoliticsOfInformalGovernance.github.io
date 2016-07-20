@@ -9,4 +9,9 @@ permalink: "/papers/"
 ---
 ## List All Papers
 Maybe make a blog structure of all papers, where we can show a short abstract or whatever.
-{% include list-posts entries='3' offset='0' category='event' %}
+
+### 2016
+{% include list-posts entries='100' offset='0' category='paper' tag='2016'%}
+
+### 2015
+{% include list-posts entries='100' offset='0' category='paper' tag='2015'%}

@@ -7,4 +7,4 @@ header:
    image_fullwidth: "header.png"
 permalink: "/news/event_news"
 ---
-{% include list-posts entries='3' offset='0' category='event' %}
+{% include list-posts entries='5' offset='0' category='event' %}

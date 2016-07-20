@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>The Politics of Informal Governance</title>
-	<updated>2016-07-19T15:53:51+02:00</updated>
+	<updated>2016-07-20T12:15:51+02:00</updated>
 
 	<subtitle>Official Project Website</subtitle>
 
@@ -24,6 +24,39 @@
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/paper/news/sample-paper-post/</id>
+			<title>Sample Paper News</title>
+			<link href="http://localhost:4000/paper/news/sample-paper-post/" rel="alternate" type="text/html" title="Sample Paper News" />
+			<updated>2016-07-19T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>New Paper!</summary>
+			<content type="html" xml:base="http://localhost:4000/paper/news/sample-paper-post/">&lt;h2 id=&quot;this-is-a-sample-post-for-paper-news&quot;&gt;This is a sample post for paper news!&lt;/h2&gt;
+&lt;p&gt;asdfj asdflksdj algjsl a&lt;/p&gt;
+</content>
+
+			
+				<category term="paper" />
+			
+				<category term="news" />
+			
+			
+				<category term="2016" />
+			
+
+			<published>2016-07-19T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/design/event/news/sample-event-post/</id>
