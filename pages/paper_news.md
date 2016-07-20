@@ -2,7 +2,7 @@
 layout: page
 title: "Paper News"
 meta_title: "Paper News"
-subheadline: "News Regarding Data"
+subheadline: "News Regarding Publications"
 header:
    image_fullwidth: "header.png"
 permalink: "/news/papers_news/"

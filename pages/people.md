@@ -10,8 +10,8 @@ permalink: "/people/"
 
 | Name                 | Role              | Department/Institute                               | Institution                                                                               |
 |----------------------|-------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Oliver Westerwinter  | Coordinator       | Profile Area Global Democratic Governance          | Universität St. Gallen-Hochschule für Wirtschafts-Rechts- und Sozialwissenschaften        |
-| Dirk Lehmkuhl        | Co-Coordinator    | Department of Political Science                    | Universität St. Gallen-Hochschule für Wirtschafts-Rechts- und Sozialwissenschaften        |
+| Oliver Westerwinter  | Coordinator       | Profile Area Global Democratic Governance          | Universität St. Gallen - Hochschule für Wirtschafts-Rechts- und Sozialwissenschaften        |
+| Dirk Lehmkuhl        | Co-Coordinator    | Department of Political Science                    | Universität St. Gallen - Hochschule für Wirtschafts-Rechts- und Sozialwissenschaften        |
 | Katharina Michaelowa | Co-Coordinator    | Department of Political Science                    | University of Zurich                                                                      |
 | Bernhard Reinsberg   | Principal Member  | Center for Comparative and International Studies   | University of Zurich                                                                      |
 | Kenneth Abbott       | Associated Member | College of Law                                     | Arizona State University                                                                  |

@@ -169,20 +169,6 @@
             
           
         
-
-              
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a href="http://localhost:4000/contact/">Contact</a></li>
-
-            
-            
-          
-        
         
       </ul>
 
@@ -332,12 +318,6 @@
 
             
             
-          
-        
-
-              
-
-          
           
         
 
