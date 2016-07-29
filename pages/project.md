@@ -2,7 +2,7 @@
 layout: page
 title: "Project"
 meta_title: "Project"
-subheadline: "About the Project"
+subheadline: 
 header:
    image_fullwidth: "header.png"
 permalink: "/project/"

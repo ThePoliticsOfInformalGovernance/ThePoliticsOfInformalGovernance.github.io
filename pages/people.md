@@ -2,7 +2,7 @@
 layout: page
 title: "People"
 meta_title: "People"
-subheadline: "People of the Project"
+subheadline: 
 header:
    image_fullwidth: "header.png"
 permalink: "/people/"
