@@ -9,15 +9,15 @@ header:
   image_fullwidth: header.png
 widget2:
   title: "People"
-  url: "{{site.url}}/people/"
+  url: https://thepoliticsofinformalgovernance.github.io//people/
   text: "Learn more about who's involved in this project."
 widget1:
   title: "About the Project"
-  url: "{{site.url}}/project/"
+  url: https://thepoliticsofinformalgovernance.github.io//project/
   text: "Learn more about the goals of this project."
 widget3:
   title: "Data"
-  url: "{{site.url}}/data/"
+  url: https://thepoliticsofinformalgovernance.github.io//data/
   text: "Download the data collected by this project and use it for your own research."
 #
 # Use the call for action to show a button on the frontpage
