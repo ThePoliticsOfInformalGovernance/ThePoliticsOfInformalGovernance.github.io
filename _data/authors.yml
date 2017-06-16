@@ -10,11 +10,11 @@ tino: # replace this with your info
   siterole: "Assistant"
   uri:
   email:
-  twitter:
+  twitter: "@tin0g"
 oliver: # replace this with your info
   name: "Oliver Westerwinter"
   siterole: "Project Manager"
-  uri: 
-  email:
+  uri: "oliverwesterwinter.com"
+  email: "oliver.westerwinter@unisg.ch"
   twitter:
 # you can add more authors here

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>The Politics of Informal Governance</title>
-	<updated>2016-07-27T13:44:16+02:00</updated>
+	<updated>2017-06-16T13:59:52+02:00</updated>
 
 	<subtitle>Official Project Website</subtitle>
 
@@ -12,7 +12,7 @@
 		
 		<author>
 			
-				<name>Oliver Westerwinter</name>
+				<name>Tino Good</name>
 			
 			
 			
@@ -26,10 +26,10 @@
 
 	
 		<entry>
-			<id>http://localhost:4000/paper/news/sample-paper-post/</id>
-			<title>Sample Paper News</title>
-			<link href="http://localhost:4000/paper/news/sample-paper-post/" rel="alternate" type="text/html" title="Sample Paper News" />
-			<updated>2016-07-19T00:00:00+02:00</updated>
+			<id>http://localhost:4000/event/news/Workshop-Geneva/</id>
+			<title>Workshop in Geneva</title>
+			<link href="http://localhost:4000/event/news/Workshop-Geneva/" rel="alternate" type="text/html" title="Workshop in Geneva" />
+			<updated>2017-06-02T00:00:00+02:00</updated>
 
 			
 				
@@ -38,64 +38,37 @@
 						<name>Oliver Westerwinter</name>
 					
 					
+						<email>oliver.westerwinter@unisg.ch</email>
+					
+					
+						<uri>oliverwesterwinter.com</uri>
 					
 				</author>
 			
-			<summary>New Paper!</summary>
-			<content type="html" xml:base="http://localhost:4000/paper/news/sample-paper-post/">&lt;h2 id=&quot;this-is-a-sample-post-for-paper-news&quot;&gt;This is a sample post for paper news!&lt;/h2&gt;
-&lt;p&gt;asdfj asdflksdj algjsl a&lt;/p&gt;
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/event/news/Workshop-Geneva/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/assets/workshop_data/2017-05-19-agenda_geneva_workshop.pdf&quot;&gt;Agenda&lt;/a&gt;
+Paste agenda and some pictures etc…&lt;/p&gt;
 </content>
 
-			
-				<category term="paper" />
-			
-				<category term="news" />
-			
-			
-				<category term="2016" />
-			
-
-			<published>2016-07-19T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/design/event/news/sample-event-post/</id>
-			<title>Sample Post Events</title>
-			<link href="http://localhost:4000/design/event/news/sample-event-post/" rel="alternate" type="text/html" title="Sample Post Events" />
-			<updated>2016-07-19T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Oliver Westerwinter</name>
-					
-					
-					
-				</author>
-			
-			<summary>Upcoming Event!</summary>
-			<content type="html" xml:base="http://localhost:4000/design/event/news/sample-event-post/">&lt;h2 id=&quot;this-is-a-sample-post-for-event-news&quot;&gt;This is a sample post for event news!&lt;/h2&gt;
-&lt;p&gt;asdfj asdflksdj algjsl a&lt;/p&gt;
-</content>
-
-			
-				<category term="design" />
 			
 				<category term="event" />
 			
 				<category term="news" />
 			
 			
+				<category term="workshop" />
+			
+				<category term="conference" />
+			
 
-			<published>2016-07-19T00:00:00+02:00</published>
+			<published>2017-06-02T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/design/data/news/sample-data-post/</id>
-			<title>Sample Post Data</title>
-			<link href="http://localhost:4000/design/data/news/sample-data-post/" rel="alternate" type="text/html" title="Sample Post Data" />
-			<updated>2016-07-18T00:00:00+02:00</updated>
+			<id>http://localhost:4000/event/news/Workshop-HSG/</id>
+			<title>Workshop at University of St.Gallen</title>
+			<link href="http://localhost:4000/event/news/Workshop-HSG/" rel="alternate" type="text/html" title="Workshop at University of St.Gallen" />
+			<updated>2017-06-01T00:00:00+02:00</updated>
 
 			
 				
@@ -104,24 +77,178 @@
 						<name>Oliver Westerwinter</name>
 					
 					
+						<email>oliver.westerwinter@unisg.ch</email>
+					
+					
+						<uri>oliverwesterwinter.com</uri>
 					
 				</author>
 			
-			<summary>New data available!</summary>
-			<content type="html" xml:base="http://localhost:4000/design/data/news/sample-data-post/">&lt;h2 id=&quot;this-is-a-sample-post-for-data-news&quot;&gt;This is a sample post for data news!&lt;/h2&gt;
-&lt;p&gt;asdfj asdflksdj algjsl a&lt;/p&gt;
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/event/news/Workshop-HSG/">&lt;p&gt;Paste agenda and some pictures etc…&lt;/p&gt;
 </content>
 
 			
-				<category term="design" />
-			
-				<category term="data" />
+				<category term="event" />
 			
 				<category term="news" />
 			
 			
+				<category term="workshop" />
+			
+				<category term="conference" />
+			
 
-			<published>2016-07-18T00:00:00+02:00</published>
+			<published>2017-06-01T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/publication/Continent-of-International-Law/</id>
+			<title>The Continent of International Law</title>
+			<link href="http://localhost:4000/publication/Continent-of-International-Law/" rel="alternate" type="text/html" title="The Continent of International Law" />
+			<updated>2017-02-09T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Oliver Westerwinter</name>
+					
+					
+						<email>oliver.westerwinter@unisg.ch</email>
+					
+					
+						<uri>oliverwesterwinter.com</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/publication/Continent-of-International-Law/">&lt;p&gt;Barbara Koremenos presents an important book that opens up new frontiers in the study of international cooperation and the design of international institutions. It is characterized by theoretical and empirical richness as well as analytical rigor. All students of international cooperation will have to engage with its insights and implications. Building on the theoretical framework of the seminal legalization and rational design projects (Goldstein et al. 2000; Koremenos et al. 2001), the central idea of The Continent of International Law is that the formal design details of international agreements matter for international cooperation and that states meticulously craft the specificities of international agreements to bring them in line with the problems they seek to govern. States’ strategic design choices are driven by the cooperation problems that they face when attempting to cooperate at the international level as well as by the characteristics of the states interested in cooperating. This idea expands and revises the rational design framework and provides the basis for a broad range of empirical tests of hypotheses that have so far remained largely untested.&lt;/p&gt;
+
+&lt;p&gt;Contemporary global governance is characterized by an increasing level of institutionalized cooperation (Lake 2010; Abbott et al. 2016). Whether it takes the form of formal intergovernmental organizations (Pevehouse et al. 2004), international agreements (Baccini et al. 2015), informal intergovernmental organizations (Vabulas and Snidal 2013), or transnational public-private governance initiatives (Westerwinter 2017), studies agree that over the past decades, and particularly since the end of the Cold War, cooperation among nations has been on the rise in virtually all issue areas. Research on international cooperation has made substantial progress by taking seriously the formal details of international institutions, such as international organizations and treaties (Goldstein et al. 2000; Koremenos et al. 2001; Hawkins et al. 2006; Tallberg et al. 2014; Hooghe and Marks 2015). Drawing on rational institutionalism and game theoretic thinking as a broader theoretical framework, these works generated theoretical explanations of the presence and absence of important institutional design elements, such as obligation, flexibility, and precision (Goldstein et al. 2000). However, oftentimes the empirical tests of these arguments were limited to single or small-n case studies, which make the systematic empirical evaluation of hypotheses challenging and limit the generalizability of results.&lt;/p&gt;
+</content>
+
+			
+				<category term="publication" />
+			
+			
+				<category term="publication" />
+			
+
+			<published>2017-02-09T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/event/ECPR-Workshop/</id>
+			<title>ECPR Workshop</title>
+			<link href="http://localhost:4000/event/ECPR-Workshop/" rel="alternate" type="text/html" title="ECPR Workshop" />
+			<updated>2016-04-28T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Oliver Westerwinter</name>
+					
+					
+						<email>oliver.westerwinter@unisg.ch</email>
+					
+					
+						<uri>oliverwesterwinter.com</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/event/ECPR-Workshop/">&lt;p&gt;Why do states sometimes use informal institutions instead of formal organizations to govern global policy issues? Extant research on the forms of institutionalization in global governance focuses on formal modes of cooperation, such as intergovernmental organizations and treaties. Formal rules, however, do not exhaust the institutional variety of international cooperation. They are often inadequate, if not entirely misleading, descriptions of the game that actors play in world politics. Recent work in political science, economics, and international law has started to examine informal governance as a mode of international cooperation. Informal governance refers to unwritten (and often vaguely specified) rules, shared expectations, and norms that are not enshrined in formally constituted organizations and which modify or substitute legally binding rules. It includes informal practices within formal IGOs, informal institutions, and a broad array of networks constituted by state and non-state actors. This project examines the factors that lead states to choose between formal intergovernmental organizations, informal intergovernmental organizations, and transnational governance networks to structure their interactions and govern global problems. We also investigate the interactions between formal and informal institutions. I highlight the political dimensions of informal governance and argue that distributional conflict and power asymmetries are critical for the selection and design of informal institutions. States and transnational actors use informal institutions as a means to project power and bias outcomes toward their particularistic interests. Using an original new dataset on formal and informal international cooperation, I test hypotheses derived from this argument as well as alternative theoretical approaches using a multi-method research design that combines case studies and statistical analysis.&lt;/p&gt;
+</content>
+
+			
+				<category term="event" />
+			
+			
+				<category term="workshop" />
+			
+				<category term="conference" />
+			
+
+			<published>2016-04-28T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/event/paper/news/SVPW-Conference_Basel/</id>
+			<title>SVBW Conference in Basel</title>
+			<link href="http://localhost:4000/event/paper/news/SVPW-Conference_Basel/" rel="alternate" type="text/html" title="SVBW Conference in Basel" />
+			<updated>2016-01-21T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Oliver Westerwinter</name>
+					
+					
+						<email>oliver.westerwinter@unisg.ch</email>
+					
+					
+						<uri>oliverwesterwinter.com</uri>
+					
+				</author>
+			
+			<summary>Paper Presented</summary>
+			<content type="html" xml:base="http://localhost:4000/event/paper/news/SVPW-Conference_Basel/">&lt;p&gt;Why do states sometimes use informal institutions instead of formal organizations to govern global policy issues? Extant research on the forms of institutionalization in global governance focuses on formal modes of cooperation, such as intergovernmental organizations and
+treaties. Formal rules, however, do not exhaust the institutional variety of international cooperation. They are often inadequate, if not entirely misleading, descriptions of the game that actors play in world politics. Recent work has started to examine informal governance
+as a mode of international cooperation. Informal governance refers to unwritten (and often vaguely specified) rules, shared expectations, and norms that are not enshrined in formally constituted organizations and which modify or substitute legally binding rules. It includes informal practices within formal IGOs, informal institutions, and a broad array of Networks constituted by state and non-state actors. This project examines the factors that lead states
+to choose between formal intergovernmental organizations, informal intergovernmental organizations, and transnational public-private governance initiatives to structure their interactions and govern global problems. We highlight the political dimensions of informal governance and argue that distributional conflict and power asymmetries are critical for the selection and design of informal institutions. States and transnational actors use informal institutions as a means to project power and bias outcomes toward their particularistic interests. Using a new dataset on formal and informal international cooperation, we test hypotheses derived from this argument as well as functionalist explanations. We find that the choice of institutional informality is shaped by power as well as functionalist dynamics with power-related variables having larger substantive effects on the probability of observing informal institutions. &lt;a href=&quot;https://www.alexandria.unisg.ch/248573/1/Westerwinter_Politics_of_Informal_Governance_18022016.pdf&quot;&gt;Link to paper.&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="event" />
+			
+				<category term="paper" />
+			
+				<category term="news" />
+			
+			
+				<category term="conference" />
+			
+
+			<published>2016-01-21T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/publication/Informal-International-Lawmaking/</id>
+			<title>Informal International Lawmaking</title>
+			<link href="http://localhost:4000/publication/Informal-International-Lawmaking/" rel="alternate" type="text/html" title="Informal International Lawmaking" />
+			<updated>2012-12-31T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Oliver Westerwinter</name>
+					
+					
+						<email>oliver.westerwinter@unisg.ch</email>
+					
+					
+						<uri>oliverwesterwinter.com</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/publication/Informal-International-Lawmaking/">&lt;p&gt;Research on international cooperation has made substantial progress by taking seriously the formal details of international institutions, such as international organizations (IOs) and treaties (Goldstein et al. 2000; Koremenos et al. 2001; Hawkins et al. 2006; Thomson et al. 2006). Formal rules do not, however, exhaust the institutional variety of international cooperation. They are often inadequate descriptions of the game that actors play in world politics (Achen 2006; Stone 2011, 2013). As Stone (2011) argues, IOs are governed by both formal and informal rules, and powerful states exploit informal governance to manipulate IO policies when their interests are acutely affected. For example, the rules of the game played in the World Trade Organization depart substantially from the formal treaty provisions (Steinberg 2002). Likewise, in the European Union (EU) the legislative co-decision procedure between the European Parliament and the Council of Ministers consists of an ensemble of formal and informal procedures that interact with one another in multiple ways to shape the interactions of member states and EU institutions (Kleine 2013). As these examples indicate, while formal rules are important features of contemporary global governance, in many situations informal practices may override, substitute for, or complement the formal provisions.&lt;/p&gt;
+
+&lt;p&gt;Most of the recent works on informal governance in international relations focus on informality within formal IOs (Stone 2011; Kleine 2013; Kilby 2013). However, as the volume Informal International Lawmaking edited by Joost Pauwelyn, Ramses Wessel, and Jan Wouters convincingly describes, the phenomenon is broader than this. The contributions to the volume cover a broad range of over 30 cases 1 of informal international cooperation ranging from informal procedures within IOs to informal groups of states and transnational networks of government bureaucrats. These contributions develop innovative theoretical arguments about the emergence, operation, and consequences of informal modes of international cooperation; discuss the location of such informal modes within the “universe of law”; investigate how informal modes of cooperation interact with formal international law; assess the legitimacy and democratic accountability of informal modes of cooperation; and analyze how informal modes of cooperation are elaborated and implemented by domestic institutions. The volume concludes with a chapter that summarizes the contributions of the other chapters, outlines areas for future research, and articulates practical guidelines for negotiators and actors who are involved in the elaboration of informal international law.&lt;/p&gt;
+</content>
+
+			
+				<category term="publication" />
+			
+			
+				<category term="publication" />
+			
+
+			<published>2012-12-31T00:00:00+01:00</published>
 		</entry>
 	
 </feed>

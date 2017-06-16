@@ -2,7 +2,7 @@
 layout: page
 title: "Links"
 meta_title: "Links"
-subheadline: 
+subheadline:
 header:
    image_fullwidth: "header.png"
 permalink: "/links/"

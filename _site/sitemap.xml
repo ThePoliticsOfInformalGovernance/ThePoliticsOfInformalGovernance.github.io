@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 30 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 25 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://localhost:4000/news/archive/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -50,88 +50,13 @@
 	</url>
 	
 
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/changelog/</loc>
-	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
 	
 
 	
 	<url>
 	<loc>http://localhost:4000/data/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/news/data_news/</loc>
-	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/</loc>
-	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/documentation/</loc>
-	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/news/event_news/</loc>
-	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +71,7 @@
 	<url>
 	<loc>http://localhost:4000/events/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +86,7 @@
 	<url>
 	<loc>http://localhost:4000/feed.xml</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +101,7 @@
 	<url>
 	<loc>http://localhost:4000/headers/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +116,7 @@
 	<url>
 	<loc>http://localhost:4000/humans.txt</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +131,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +146,7 @@
 	<url>
 	<loc>http://localhost:4000/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,7 +161,7 @@
 	<url>
 	<loc>http://localhost:4000/links/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,22 +176,7 @@
 	<url>
 	<loc>http://localhost:4000/news/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/news/papers_news/</loc>
-	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -281,7 +191,7 @@
 	<url>
 	<loc>http://localhost:4000/people/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -296,7 +206,7 @@
 	<url>
 	<loc>http://localhost:4000/project/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -311,7 +221,7 @@
 	<url>
 	<loc>http://localhost:4000/publications/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -326,7 +236,7 @@
 	<url>
 	<loc>http://localhost:4000/redirect-page/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -341,7 +251,7 @@
 	<url>
 	<loc>http://localhost:4000/robots.txt</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -360,7 +270,7 @@
 	<url>
 	<loc>http://localhost:4000/search/</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -375,7 +285,7 @@
 	<url>
 	<loc>http://localhost:4000/sitemap.xml</loc>
 	
-		<lastmod>2016-07-27T13:44:16+02:00</lastmod>
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -388,14 +298,29 @@
 
 	
 
+	
+	<url>
+	<loc>http://localhost:4000/blog/page2/</loc>
+	
+		<lastmod>2017-06-16T13:59:52+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
-<!-- Posts: 3 links with priority=0.5, changefreq=monthly -->
+
+<!-- Posts: 6 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/paper/news/sample-paper-post/</loc>
+	<loc>http://localhost:4000/event/news/Workshop-Geneva/</loc>
 	
-		<lastmod>2016-07-19T00:00:00+02:00</lastmod>
+		<lastmod>2017-06-02T00:00:00+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -408,9 +333,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/event/news/sample-event-post/</loc>
+	<loc>http://localhost:4000/event/news/Workshop-HSG/</loc>
 	
-		<lastmod>2016-07-19T00:00:00+02:00</lastmod>
+		<lastmod>2017-06-01T00:00:00+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -423,9 +348,54 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/data/news/sample-data-post/</loc>
+	<loc>http://localhost:4000/publication/Continent-of-International-Law/</loc>
 	
-		<lastmod>2016-07-18T00:00:00+02:00</lastmod>
+		<lastmod>2017-02-09T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/event/ECPR-Workshop/</loc>
+	
+		<lastmod>2016-04-28T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/event/paper/news/SVPW-Conference_Basel/</loc>
+	
+		<lastmod>2016-01-21T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/publication/Informal-International-Lawmaking/</loc>
+	
+		<lastmod>2012-12-31T00:00:00+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

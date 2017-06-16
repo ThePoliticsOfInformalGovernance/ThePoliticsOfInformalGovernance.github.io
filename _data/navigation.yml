@@ -6,19 +6,6 @@
   url: "/project/"
   side: left
 
-- title: "News"
-  url: "/news/"
-  side: left
-  dropdown:
-  - title: "Data News"
-    url: "/news/data_news/"
-  - title: "Event News"
-    url: "/news/event_news/"
-  - title: "Paper News"
-    url: "/news/papers_news/"
-  - title: "Archive"
-    url: "/news/archive/"
-
 - title: "Data"
   url: "/data/"
   side: left

@@ -3,10 +3,10 @@
   class: icon-github
   title: "Website, Data and Scripts"
 
-- name: Twitter
-  url:
-  class: icon-twitter
-  title: "Follow us on Twitter"
+#- name: Twitter
+#  url:
+#  class: icon-twitter
+#  title: "Follow us on Twitter"
 
 # - name: Google+
 #   url:

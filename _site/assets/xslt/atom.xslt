@@ -146,12 +146,6 @@
 
           
           
-        
-
-              
-
-          
-          
             
             
               <li class="divider"></li>
@@ -193,47 +187,6 @@
               <li class="divider"></li>
 
             
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/news/">News</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/news/data_news/">Data News</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/news/event_news/">Event News</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/news/papers_news/">Paper News</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/news/archive/">Archive</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
             
           
         
@@ -421,33 +374,12 @@
             
               
             
-              
-            
-              
-            
-              
-            
 
               <ul class="no-bullet shadow-black">
               
                 
                   <li >
                     <a href="http://localhost:4000"  title=""></a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
@@ -461,38 +393,8 @@
 
           <div class="small-6 medium-3 large-3 columns">
             
-              
-                <h5 class="shadow-black">Credits</h5>
-              
-            
-              
-            
-              
-            
-              
-            
 
             <ul class="no-bullet shadow-black">
-            
-              
-                <li >
-                  <a href="http://localhost:4000"  title=""></a>
-                </li>
-            
-              
-                <li class="network-entypo" >
-                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>
-                </li>
-            
-              
-                <li class="services-newsletter" >
-                  <a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>
-                </li>
-            
-              
-                <li class="sitemap-link" >
-                  <a href="http://srobbin.com/jquery-plugins/backstretch/" target="_blank"  title="Using Backstretch by Scott Robbin">Using Backstretch by Scott Robbin</a>
-                </li>
             
             </ul>
           </div><!-- /.large-3.columns -->
@@ -511,8 +413,6 @@
             <ul class="inline-list social-icons">
             
               <li><a href="http://github.com/ThePoliticsOfInformalGovernance" target="_blank" class="icon-github" title="Website, Data and Scripts"></a></li>
-            
-              <li><a href="" target="_blank" class="icon-twitter" title="Follow us on Twitter"></a></li>
             
             </ul>
           </section>

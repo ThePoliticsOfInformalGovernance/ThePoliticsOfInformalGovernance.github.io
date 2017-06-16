@@ -7,14 +7,14 @@
 layout: frontpage
 header:
   image_fullwidth: header.png
-widget1:
-  title: "News"
-  url: "https://ThePoliticsOfInformalGovernance.github.io/news"
-  text: "Read all the news regarding this project including data updates, new papers and upcoming events."
 widget2:
+  title: "People"
+  url: "https://ThePoliticsOfInformalGovernance.github.io/news"
+  text: "Learn more about who's involved in this project."
+widget1:
   title: "About the Project"
   url: ""
-  text: "Teaser including main goals of the project..."
+  text: "Learn more about the goals of this project."
 widget3:
   title: "Data"
   url: ""
@@ -41,10 +41,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>

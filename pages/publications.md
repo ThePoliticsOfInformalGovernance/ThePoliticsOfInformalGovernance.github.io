@@ -7,4 +7,5 @@ header:
    image_fullwidth: "header.png"
 permalink: "/publications/"
 ---
-Here you will find all papers published based on [data]({{site.url}}/data/) provided by this project.
+Publications based on the [data]({{site.url}}/data/) provided by this project.
+{% include list-posts entries='10' offset='0' category='publication' %}

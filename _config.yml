@@ -21,16 +21,17 @@ credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll<
 
 # Main author of the website
 # See > authors.yml
-author: oliver
+author: tino
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ThePoliticsOfInformalGovernance.github.io'
+url: "http://localhost:4000"
+  #'https://ThePoliticsOfInformalGovernance.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/ThePoliticsOfInformalGovernance/ThePoliticsOfInformalGovernance.io
+improve_content: https://github.com/ThePoliticsOfInformalGovernance
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -116,7 +117,7 @@ defaults:
       path: ''
       type: 'posts'
     values:
-      show_meta: true   # Show metadata for all posts
+      show_meta: false   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: oliver     # Default author for posts
