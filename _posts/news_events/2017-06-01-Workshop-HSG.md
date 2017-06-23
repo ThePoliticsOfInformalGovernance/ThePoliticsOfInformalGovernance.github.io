@@ -12,4 +12,4 @@ tags:
 header:
    image_fullwidth: header.png
 ---
-Paste agenda and some pictures etc...
+[Agenda]({{site.url}}/assets/workshop_data/2016-10-06-agenda_unisg_workshop.pdf)
