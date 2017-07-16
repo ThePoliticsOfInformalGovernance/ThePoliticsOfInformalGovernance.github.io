@@ -7,4 +7,4 @@ header:
    image_fullwidth: "header.png"
 permalink: "/data/"
 ---
-Here you will find the data as soon as it is available.
+Here you will find the data and codebook as soon as it is available.

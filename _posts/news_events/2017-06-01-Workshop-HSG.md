@@ -1,6 +1,8 @@
 ---
 layout: page
 title:  "Workshop at University of St.Gallen"
+event_name: "Project workshop at the University of St.Gallen"
+event_date: "October 2016"
 #subheadline: ""
 teaser:
 categories:

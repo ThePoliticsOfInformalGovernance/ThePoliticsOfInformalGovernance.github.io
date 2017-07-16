@@ -1,7 +1,9 @@
 ---
 layout: page
 title:  "Informal International Lawmaking"
-subheadline: "Book by Pauwelyn, Wessel & Wouters"
+subheadline: "Book review by Pauwelyn, Wessel & Wouters"
+publication_type: "Book review"
+publication_author: "Pauwelyn, Wessel & Wouters"
 teaser:
 categories:
     - publication

@@ -2,6 +2,8 @@
 layout: page
 title:  "ECPR Workshop"
 subheadline: "The Informalization of Global Governance"
+event_name: "Workshop: The Informalization of Global Governance"
+event_date: "2016 ECPR Joint Sessions Pisa"
 teaser:
 categories:
     - event

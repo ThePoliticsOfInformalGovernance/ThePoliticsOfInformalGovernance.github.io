@@ -37,9 +37,9 @@
   {% elsif category %}
 
     {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
-      <li><a href="{{ site.url }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
+      <li><a href="{{ site.url }}{{ post.url }}">{% if post.event_name %}{{ post.event_name }} &middot; {% endif %}<strong>{{ post.event_date }}</strong></a></li>
     {% endfor %}
-      
+
 
 
   {% elsif tag %}

@@ -1,7 +1,9 @@
 ---
 layout: page
 title:  "The Continent of International Law"
-subheadline: "Book by Barbara Koremenos"
+subheadline: "Book review by Barbara Koremenos"
+publication_type: "Book review"
+publication_author: "Barbara Keromenos"
 teaser:
 categories:
     - publication

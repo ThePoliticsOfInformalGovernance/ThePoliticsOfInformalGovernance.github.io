@@ -9,3 +9,4 @@ permalink: "/links/"
 ---
 - [Swiss Network for International Studies (SNIS)](http://www.snis.ch)
 - [The Correlates of War](http://www.correlatesofwar.org)
+- [The Continent of International Law](http://www.isr.umich.edu/cps/coil/)

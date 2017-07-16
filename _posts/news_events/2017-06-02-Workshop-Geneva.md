@@ -1,6 +1,8 @@
 ---
 layout: page
 title:  "Workshop in Geneva"
+event_name: "Project workshop at the Graduate Institute Geneva"
+event_date: "May 2017"
 #subheadline: ""
 teaser:
 categories:
