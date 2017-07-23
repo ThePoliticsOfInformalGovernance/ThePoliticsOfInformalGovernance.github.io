@@ -2,7 +2,7 @@
 layout: page
 title: "Data"
 meta_title: "Data"
-subheadline: "Download & View Data Project Data"
+subheadline: "Download & View Project Data"
 header:
    image_fullwidth: "header.png"
 permalink: "/data/"

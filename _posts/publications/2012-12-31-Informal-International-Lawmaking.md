@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Informal International Lawmaking"
-subheadline: "Book review by Pauwelyn, Wessel & Wouters"
+subheadline: "Book review by Oliver Westerwinter"
 publication_type: "Book review"
 publication_author: "Pauwelyn, Wessel & Wouters"
 teaser:

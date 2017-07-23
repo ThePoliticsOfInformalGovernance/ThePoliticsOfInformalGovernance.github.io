@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "The Continent of International Law"
-subheadline: "Book review by Barbara Koremenos"
+subheadline: "Book review by Oliver Westerwinter"
 publication_type: "Book review"
 publication_author: "Barbara Keromenos"
 teaser:
