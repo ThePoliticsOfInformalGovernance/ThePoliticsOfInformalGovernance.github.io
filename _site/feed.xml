@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ThePoliticsOfInformalGovernance.github.io/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://ThePoliticsOfInformalGovernance.github.io/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>The Politics of Informal Governance</title>
 		<description>Official Project Website</description>
-		<link>https://ThePoliticsOfInformalGovernance.github.io/</link>
-		<atom:link href="https://ThePoliticsOfInformalGovernance.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Workshop in Geneva</title>
-				<link>https://ThePoliticsOfInformalGovernance.github.io/event/news/Workshop-Geneva/</link>
+				<link>http://localhost:4000/event/news/Workshop-Geneva/</link>
 				<pubDate>Fri, 02 Jun 2017 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://ThePoliticsOfInformalGovernance.github.io/assets/workshop_data/2017-05-19-agenda_geneva_workshop.pdf&quot;&gt;Agenda&lt;/a&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;a href=&quot;http://localhost:4000/assets/workshop_data/2017-05-19-agenda_geneva_workshop.pdf&quot;&gt;Agenda&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://ThePoliticsOfInformalGovernance.github.io/event/news/Workshop-Geneva/</guid>
+				<guid isPermaLink="true">http://localhost:4000/event/news/Workshop-Geneva/</guid>
 			</item>
 		
 			<item>
 				<title>Workshop at University of St.Gallen</title>
-				<link>https://ThePoliticsOfInformalGovernance.github.io/event/news/Workshop-HSG/</link>
+				<link>http://localhost:4000/event/news/Workshop-HSG/</link>
 				<pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://ThePoliticsOfInformalGovernance.github.io/assets/workshop_data/2016-10-06-agenda_unisg_workshop.pdf&quot;&gt;Agenda&lt;/a&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;a href=&quot;http://localhost:4000/assets/workshop_data/2016-10-06-agenda_unisg_workshop.pdf&quot;&gt;Agenda&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://ThePoliticsOfInformalGovernance.github.io/event/news/Workshop-HSG/</guid>
+				<guid isPermaLink="true">http://localhost:4000/event/news/Workshop-HSG/</guid>
 			</item>
 		
 			<item>
 				<title>The Continent of International Law</title>
-				<link>https://ThePoliticsOfInformalGovernance.github.io/publication/Continent-of-International-Law/</link>
+				<link>http://localhost:4000/publication/Continent-of-International-Law/</link>
 				<pubDate>Thu, 09 Feb 2017 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;Barbara Koremenos presents an important book that opens up new frontiers in the study of international cooperation and the design of international institutions. It is characterized by theoretical and empirical richness as well as analytical rigor. All students of international cooperation will have to engage with its insights and implications. Building on the theoretical framework of the seminal legalization and rational design projects (Goldstein et al. 2000; Koremenos et al. 2001), the central idea of The Continent of International Law is that the formal design details of international agreements matter for international cooperation and that states meticulously craft the specificities of international agreements to bring them in line with the problems they seek to govern. States’ strategic design choices are driven by the cooperation problems that they face when attempting to cooperate at the international level as well as by the characteristics of the states interested in cooperating. This idea expands and revises the rational design framework and provides the basis for a broad range of empirical tests of hypotheses that have so far remained largely untested.&lt;/p&gt;
 
 &lt;p&gt;Contemporary global governance is characterized by an increasing level of institutionalized cooperation (Lake 2010; Abbott et al. 2016). Whether it takes the form of formal intergovernmental organizations (Pevehouse et al. 2004), international agreements (Baccini et al. 2015), informal intergovernmental organizations (Vabulas and Snidal 2013), or transnational public-private governance initiatives (Westerwinter 2017), studies agree that over the past decades, and particularly since the end of the Cold War, cooperation among nations has been on the rise in virtually all issue areas. Research on international cooperation has made substantial progress by taking seriously the formal details of international institutions, such as international organizations and treaties (Goldstein et al. 2000; Koremenos et al. 2001; Hawkins et al. 2006; Tallberg et al. 2014; Hooghe and Marks 2015). Drawing on rational institutionalism and game theoretic thinking as a broader theoretical framework, these works generated theoretical explanations of the presence and absence of important institutional design elements, such as obligation, flexibility, and precision (Goldstein et al. 2000). However, oftentimes the empirical tests of these arguments were limited to single or small-n case studies, which make the systematic empirical evaluation of hypotheses challenging and limit the generalizability of results.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://ThePoliticsOfInformalGovernance.github.io/publication/Continent-of-International-Law/</guid>
+				<guid isPermaLink="true">http://localhost:4000/publication/Continent-of-International-Law/</guid>
 			</item>
 		
 			<item>
 				<title>ECPR Workshop</title>
-				<link>https://ThePoliticsOfInformalGovernance.github.io/event/ECPR-Workshop/</link>
+				<link>http://localhost:4000/event/ECPR-Workshop/</link>
 				<pubDate>Thu, 28 Apr 2016 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;Why do states sometimes use informal institutions instead of formal organizations to govern global policy issues? Extant research on the forms of institutionalization in global governance focuses on formal modes of cooperation, such as intergovernmental organizations and treaties. Formal rules, however, do not exhaust the institutional variety of international cooperation. They are often inadequate, if not entirely misleading, descriptions of the game that actors play in world politics. Recent work in political science, economics, and international law has started to examine informal governance as a mode of international cooperation. Informal governance refers to unwritten (and often vaguely specified) rules, shared expectations, and norms that are not enshrined in formally constituted organizations and which modify or substitute legally binding rules. It includes informal practices within formal IGOs, informal institutions, and a broad array of networks constituted by state and non-state actors. This project examines the factors that lead states to choose between formal intergovernmental organizations, informal intergovernmental organizations, and transnational governance networks to structure their interactions and govern global problems. We also investigate the interactions between formal and informal institutions. I highlight the political dimensions of informal governance and argue that distributional conflict and power asymmetries are critical for the selection and design of informal institutions. States and transnational actors use informal institutions as a means to project power and bias outcomes toward their particularistic interests. Using an original new dataset on formal and informal international cooperation, I test hypotheses derived from this argument as well as alternative theoretical approaches using a multi-method research design that combines case studies and statistical analysis.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://ThePoliticsOfInformalGovernance.github.io/assets/workshop_data/2016-04-26-agenda_ecpr_workshop.pdf&quot;&gt;Agenda&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/assets/workshop_data/2016-04-26-agenda_ecpr_workshop.pdf&quot;&gt;Agenda&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://ThePoliticsOfInformalGovernance.github.io/event/ECPR-Workshop/</guid>
+				<guid isPermaLink="true">http://localhost:4000/event/ECPR-Workshop/</guid>
 			</item>
 		
 			<item>
 				<title>Informal International Lawmaking</title>
-				<link>https://ThePoliticsOfInformalGovernance.github.io/publication/Informal-International-Lawmaking/</link>
+				<link>http://localhost:4000/publication/Informal-International-Lawmaking/</link>
 				<pubDate>Mon, 31 Dec 2012 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;Research on international cooperation has made substantial progress by taking seriously the formal details of international institutions, such as international organizations (IOs) and treaties (Goldstein et al. 2000; Koremenos et al. 2001; Hawkins et al. 2006; Thomson et al. 2006). Formal rules do not, however, exhaust the institutional variety of international cooperation. They are often inadequate descriptions of the game that actors play in world politics (Achen 2006; Stone 2011, 2013). As Stone (2011) argues, IOs are governed by both formal and informal rules, and powerful states exploit informal governance to manipulate IO policies when their interests are acutely affected. For example, the rules of the game played in the World Trade Organization depart substantially from the formal treaty provisions (Steinberg 2002). Likewise, in the European Union (EU) the legislative co-decision procedure between the European Parliament and the Council of Ministers consists of an ensemble of formal and informal procedures that interact with one another in multiple ways to shape the interactions of member states and EU institutions (Kleine 2013). As these examples indicate, while formal rules are important features of contemporary global governance, in many situations informal practices may override, substitute for, or complement the formal provisions.&lt;/p&gt;
 
 &lt;p&gt;Most of the recent works on informal governance in international relations focus on informality within formal IOs (Stone 2011; Kleine 2013; Kilby 2013). However, as the volume Informal International Lawmaking edited by Joost Pauwelyn, Ramses Wessel, and Jan Wouters convincingly describes, the phenomenon is broader than this. The contributions to the volume cover a broad range of over 30 cases 1 of informal international cooperation ranging from informal procedures within IOs to informal groups of states and transnational networks of government bureaucrats. These contributions develop innovative theoretical arguments about the emergence, operation, and consequences of informal modes of international cooperation; discuss the location of such informal modes within the “universe of law”; investigate how informal modes of cooperation interact with formal international law; assess the legitimacy and democratic accountability of informal modes of cooperation; and analyze how informal modes of cooperation are elaborated and implemented by domestic institutions. The volume concludes with a chapter that summarizes the contributions of the other chapters, outlines areas for future research, and articulates practical guidelines for negotiators and actors who are involved in the elaboration of informal international law.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://ThePoliticsOfInformalGovernance.github.io/publication/Informal-International-Lawmaking/</guid>
+				<guid isPermaLink="true">http://localhost:4000/publication/Informal-International-Lawmaking/</guid>
 			</item>
 		
 	</channel>
